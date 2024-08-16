@@ -208,7 +208,7 @@ function endGame() {
   });
   
   const p = document.getElementById('message');
-  p.innerText = "Congralutaions, You are a human! Here are some balls to play with. 😀"
+  p.innerText = "Congratulations, You are a human! Here are some balls to play with. 😀"
   console.log(p);
 
   let stack = Composites.stack(
